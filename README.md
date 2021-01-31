@@ -7,4 +7,4 @@
 Modern and clean responsive protfolio website which is simple and to the point portfolio website
 
 Don't forget to subscribe the channel for more videos.
-[Ali Mohd](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg)
+[Elegant Coder](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg)
